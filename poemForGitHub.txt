@@ -6,7 +6,25 @@ up to a repo
 tankas and haikus become
 the new soul speech of machines
 
+A
+B
+B
+A
+A
+B
+B
+A   
 
+C
+D
+C
+C
+D
+
+or CDECDE
+
+da-Duh da-Duh da-Duh da-Duh da-Duh
+iambic pentameter
 
 blah an awful two minute poem for following The Coding Train Github for
 poets because I need to learn git.
